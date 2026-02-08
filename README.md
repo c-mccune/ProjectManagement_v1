@@ -8,6 +8,10 @@
 - [ ] Public comps
 - [ ] Precedent transactions
 - [ ] Equity research summary
+- [ ] Discuss transaction structure
+- [ ] Entity / vehicle structure
+- [ ] Willingness to explore other targets first
+- [ ] Mention that another logistics business is in market
 
 ## Click-Ins
 - [ ] Collect and send bank statement to Jeetu
@@ -22,10 +26,6 @@
 
 ## Stratix
 - [ ] Send biz dev follow ups to Helium and Las Casas
-- [ ] Discuss transaction structure
-- [ ] Entity / vehicle structure
-- [ ] Willingness to explore other targets first
-- [ ] Mention that another logistics business is in market
 
 ## LWT
 - [ ] Categorize credit card transactions

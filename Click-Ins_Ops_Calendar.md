@@ -12,3 +12,9 @@ Recurring monthly tasks by date.
 | 20th | |
 | 25th | |
 | End of Month | |
+
+## Weekly Recurring
+
+| Day of Week | Task |
+|:---:|------|
+| Sunday | Pull latest transactions from Valley Bank and share with the SourceIn team |

@@ -41,6 +41,7 @@ Recurring monthly tasks by date.
 | Timing | Task |
 |:---:|------|
 | 2nd to last business day of the month | Request next month's invoicing detail from Barak |
+| 2nd to last business day of the month | Send invoice list to SourceIn with reminder that they must create new invoices in QBO before end of the month |
 
 ## Weekly Recurring
 

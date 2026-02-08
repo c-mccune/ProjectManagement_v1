@@ -20,3 +20,5 @@ Recurring monthly tasks by date.
 | Sunday | Pull latest transactions from Valley Bank and share with the SourceIn team |
 
 > **Slack message to send:** "Click-Ins weekly transaction report is here. 1) please update the master customer billing file in Box and 2) lease update QBO for the 2 received invoice payments. Thanks!"
+>
+> **Naming convention:** "Click-Ins_Valley Bank Transaction Report_Jan.31.26 - Feb.7.26"

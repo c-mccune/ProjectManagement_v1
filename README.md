@@ -22,6 +22,10 @@
 
 ## Stratix
 - [ ] Send biz dev follow ups to Helium and Las Casas
+- [ ] Discuss transaction structure
+- [ ] Entity / vehicle structure
+- [ ] Willingness to explore other targets first
+- [ ] Mention that another logistics business is in market
 
 ## LWT
 - [ ] Categorize credit card transactions

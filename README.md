@@ -14,7 +14,6 @@
 - [ ] Mention that another logistics business is in market
 
 ## Click-Ins
-- [ ] Collect and send bank statement to Jeetu
 - [ ] Review and finalize the model
 - [ ] Collect bank statements
 - [ ] Connect with MK Tax about resolving the two Indiana issues

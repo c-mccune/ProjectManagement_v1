@@ -18,6 +18,7 @@
 - [ ] Review and finalize the model
 - [ ] Collect bank statements
 - [ ] Connect with MK Tax about resolving the two Indiana issues
+- [ ] Complete bank recons
 
 ## Zamp
 - [ ] Collect monthly financial statements

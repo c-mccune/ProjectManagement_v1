@@ -4,7 +4,7 @@ Recurring monthly tasks by date.
 
 | Day of Month | Task |
 |:---:|------|
-| 1st | |
+| 1st | Send invoices to customers |
 | 2nd | |
 | 3rd | |
 | 4th | |

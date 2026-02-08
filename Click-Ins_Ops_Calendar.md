@@ -36,6 +36,12 @@ Recurring monthly tasks by date.
 | 30th | |
 | 31st | |
 
+## Monthly Recurring
+
+| Timing | Task |
+|:---:|------|
+| 2nd to last business day of the month | Request next month's invoicing detail from Barak |
+
 ## Weekly Recurring
 
 | Day of Week | Task |

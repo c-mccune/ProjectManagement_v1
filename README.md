@@ -28,6 +28,7 @@
 
 ## Stratix
 - [ ] Send biz dev follow ups to Helium and Las Casas | **Due:**  | **Urgency:**
+- [ ] Email Donza back and send the calendar invite | **Due:**  | **Urgency:** Complete by EOD
 
 ## LWT
 - [ ] Categorize credit card transactions | **Due:**  | **Urgency:**

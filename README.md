@@ -1,37 +1,37 @@
 # Project Management Tracker
 
 ## Freight Brokerage
-- [ ] Market mapping
-- [ ] Call note summary and synthesis
-- [ ] Expert call reviews
-- [ ] P&L standardization
-- [ ] Public comps
-- [ ] Precedent transactions
-- [ ] Equity research summary
-- [ ] Discuss transaction structure
-- [ ] Entity / vehicle structure
-- [ ] Willingness to explore other targets first
-- [ ] Mention that another logistics business is in market
+- [ ] Market mapping | **Due:**  | **Urgency:**
+- [ ] Call note summary and synthesis | **Due:**  | **Urgency:**
+- [ ] Expert call reviews | **Due:**  | **Urgency:**
+- [ ] P&L standardization | **Due:**  | **Urgency:**
+- [ ] Public comps | **Due:**  | **Urgency:**
+- [ ] Precedent transactions | **Due:**  | **Urgency:**
+- [ ] Equity research summary | **Due:**  | **Urgency:**
+- [ ] Discuss transaction structure | **Due:**  | **Urgency:**
+- [ ] Entity / vehicle structure | **Due:**  | **Urgency:**
+- [ ] Willingness to explore other targets first | **Due:**  | **Urgency:**
+- [ ] Mention that another logistics business is in market | **Due:**  | **Urgency:**
 
 ## Click-Ins
-- [ ] Review and finalize the model
-- [ ] Collect bank statements
-- [ ] Connect with MK Tax about resolving the two Indiana issues
-- [ ] Complete bank recons
+- [ ] Review and finalize the model | **Due:**  | **Urgency:**
+- [ ] Collect bank statements | **Due:**  | **Urgency:**
+- [ ] Connect with MK Tax about resolving the two Indiana issues | **Due:**  | **Urgency:**
+- [ ] Complete bank recons | **Due:**  | **Urgency:**
 
 ## Zamp
-- [ ] Collect monthly financial statements
-- [ ] Process bills
-- [ ] Prep for biweekly call
-- [ ] Extract JEs from Tabs
-- [ ] Updated financials deliverables per Praneeth's Slack message
+- [ ] Collect monthly financial statements | **Due:**  | **Urgency:**
+- [ ] Process bills | **Due:**  | **Urgency:**
+- [ ] Prep for biweekly call | **Due:**  | **Urgency:**
+- [ ] Extract JEs from Tabs | **Due:**  | **Urgency:**
+- [ ] Updated financials deliverables per Praneeth's Slack message | **Due:**  | **Urgency:**
 
 ## Stratix
-- [ ] Send biz dev follow ups to Helium and Las Casas
+- [ ] Send biz dev follow ups to Helium and Las Casas | **Due:**  | **Urgency:**
 
 ## LWT
-- [ ] Categorize credit card transactions
-- [ ] Follow-up with Leanne regarding bill pay items
+- [ ] Categorize credit card transactions | **Due:**  | **Urgency:**
+- [ ] Follow-up with Leanne regarding bill pay items | **Due:**  | **Urgency:**
 
 ## 20x - Novobi
-- [ ] Send thoughts and slide on deal valuation presentation
+- [ ] Send thoughts and slide on deal valuation presentation | **Due:**  | **Urgency:**

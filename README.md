@@ -33,4 +33,4 @@
 - [ ] Follow-up with Leanne regarding bill pay items
 
 ## 20x - Novobi
-- [ ] Review model and send thoughts to Oliver
+- [ ] Send thoughts and slide on deal valuation presentation

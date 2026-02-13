@@ -24,6 +24,7 @@
 - [ ] Process bills
 - [ ] Prep for biweekly call
 - [ ] Extract JEs from Tabs
+- [ ] Updated financials deliverables per Praneeth's Slack message
 
 ## Stratix
 - [ ] Send biz dev follow ups to Helium and Las Casas

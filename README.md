@@ -32,5 +32,5 @@
 - [ ] Categorize credit card transactions
 - [ ] Follow-up with Leanne regarding bill pay items
 
-## Independent Sponsor
+## 20x - Novobi
 - [ ] Review model and send thoughts to Oliver
